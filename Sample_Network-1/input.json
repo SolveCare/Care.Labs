@@ -1,8 +1,8 @@
 {
     "care_protocol": {
-        "network_id": "debugging",
+        "network_id": "cmln001",
         "node_url": "https://cn-traefik.solvecare.net",
-        "name": "debugging-name-5",
+        "name": "Concierge Medicine Lifestyle Network",
         "description": "Default",
         "certificates": "CERT-12345-2022",
         "publish_date": "20-05-2022",
