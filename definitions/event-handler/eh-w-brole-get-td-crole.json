@@ -1,0 +1,25 @@
+{
+    "walletEventHandler": [
+        {
+            "refId": "e-w-brole-get-td-crole",
+            "walletEvents": [
+                {
+                    "actions": [
+                        {
+                            "name": "broletd",
+                            "order": 1,
+                            "parameter": [
+                                {
+                                    "method": "GET",
+                                    "url": "/transactions/B_ROLE_TD"
+                                }
+                            ]
+                        }
+                    ],
+                    "postAction": "5-dietician-get-patient-request",
+                    "refId": "e-w-brole-get-td-crole"
+                }
+            ]
+        }
+    ]
+}
