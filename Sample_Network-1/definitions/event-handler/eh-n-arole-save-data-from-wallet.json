@@ -1,0 +1,11 @@
+{
+  "nodeEventHandlers": [
+
+
+    {
+      "jarUrl": "https://a.solvecare.net/artifactory/libs-snapshot-local/care/solve/generic/node/hello-world-handler/1.0.7-SNAPSHOT/hello-world-handler-1.0.7-20220526.153553-13.jar",
+      "className": "care.solve.node.handler.demo.sample1.RoleAUpdateTdHandler",
+      "order": 1
+    }
+  ]
+}
